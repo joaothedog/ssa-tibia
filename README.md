@@ -1,5 +1,5 @@
-#npm init
+npm init
 
-#npm install
+npm install
 
 Após isso, basta rodar o script com as coordenadas do seu monitor
